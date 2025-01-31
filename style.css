@@ -1,4 +1,16 @@
 
+@import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&family=Sora:wght@100..800&display=swap');
+/* google font link */
+.font-sora {
+    font-family: "Sora", serif;
+  }
+
+  .font-adlam {
+    font-family: "ADLaM Display", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+/* Animation */
 
 .jk{
 width:21ch;
